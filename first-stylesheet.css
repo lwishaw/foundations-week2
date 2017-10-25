@@ -1,0 +1,77 @@
+  .topnav a {
+    height: 20px;  
+    width: auto;
+    padding: 10px;
+    display: block;
+    background-color: lightgray;
+    text-align: center;
+    word-spacing: 10px;
+    text-decoration: none;
+    color: rebeccapurple;
+}
+  #logo {
+  float: left;
+      white-space: pre-wrap;  
+
+}
+
+  h1 {
+  color: rebeccapurple;
+  float: left;
+  white-space: pre-wrap;
+  padding: 50px;  
+  
+  }
+
+/* Change the link color on hover */
+  nav a:hover {
+    color: white;
+}  
+  
+  h2:hover {
+  font-size:3em;
+  }
+
+  body {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 50;
+}
+  
+  #intro {
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+  #intro:first-letter {
+  display:block;
+    font-size:300%;
+    margin:3px;
+}
+
+  img {
+    display:inline-block;
+    margin:5px 5px;
+    padding:5px;
+    
+    border:1px solid #CCC;
+}
+
+  q:hover {
+  background-color: fuchsia;
+  padding: 8px;
+}
+
+  a {
+  text-decoration: none;
+}
+
+  footer a {
+  text-decoration: none;
+  color: black;
+}
+
+  footer a:hover {
+  color: rebeccapurple;
+}
+
+</style>
